@@ -15,9 +15,14 @@ To achieve this objective, we seek to build an advanced recommendation system th
 
 # Data
 The MovieLens dataset from the University of Minnesota serves as the foundation for this recommendation system. The dataset consists of three main components: movies, ratings, and links. These components provide comprehensive information about user interactions and preferences within the movie platform.
-Method
+# Method
 The models used during the project are:
-    Collaborative Filtering
-    Singular Value Decomposition
-    K-nearest neighbor
+   *Collaborative Filtering
+   * Singular Value Decomposition
+   * K-nearest neighbor
 
+#Results
+
+#Conclusion
+
+#Recommendation
