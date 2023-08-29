@@ -6,6 +6,23 @@ GROUP 9 MEMBERS:
 3. IVY KEMUNTO
 4. IMMANUEL OMONDI
 5. PEGGY OBAM
+
+### Table of contents 
+ - [Business Problem Understanding](#Business-Problem-Understanding)
+ - [Introduction](#Introduction)
+ - [Business goals](#Business-goals)
+ - [Project goals](#Project-goals)
+ - [Potential Project Outputs](#Potential-Project-Outputs)
+ - [Data Understanding](#Data-Understanding)
+ - [Data processing](#Data-processing)
+ - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+ - [Modelling](#Modelling)
+ - [Training the model](#Training-the-model)
+ - [Conclusion](#Conclusion)
+ - [Recommendations](#Recommendations)
+ - [Limitations](#Limitations)
+ -
+
 # Business Understanding
 In the dynamic landscape of the entertainment industry, user engagement is paramount for platforms like ours. To effectively address user engagement, we must delve into the intricacies that shape it. By delving into users' historical interactions and preferences, we unearth valuable insights into their viewing habits, favored genres, and preferred content consumption times. Armed with this intelligence, 
 Our goal is to create a cutting-edge movie recommendation system that significantly enhances user engagement by delivering personalized movie suggestions. We aim to address the challenge of assisting users in discovering movies that align closely with their preferences and maximizing their satisfaction.
