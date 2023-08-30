@@ -26,29 +26,27 @@ To achieve this objective, we seek to build an advanced recommendation system th
 Movies Dataset
 The movies dataset includes information about each movie, such as movie ID, title, and genres. This dataset helps enrich the recommendations by providing details about the movies themselves.
 
-Size
-The dataset contains information about a collection of movies. Each movie is represented by a row in the dataset.
+Size: The dataset contains information about a collection of movies. Each movie is represented by a row in the dataset.
 
-Columns
+Columns:
 movieId: A unique identifier for each movie.
 title: The title of the movie.
 genres: A list of genres associated with the movie.
-Ratings Dataset
-The ratings dataset contains user-movie interactions, including user IDs, movie IDs, ratings, and timestamps. Collaborative filtering algorithms leverage this dataset to predict movie ratings for users based on their historical ratings.
 
-Size
-The dataset contains information about user-movie interactions.
+Ratings Dataset: The ratings dataset contains user-movie interactions, including user IDs, movie IDs, ratings, and timestamps. Collaborative filtering algorithms leverage this dataset to predict movie ratings for users based on their historical ratings.
+
+Size: The dataset contains information about user-movie interactions.
 
 Columns
 userId: A unique identifier for each user.
 movieId: A unique identifier for each movie.
 rating: The rating given by the user to the movie.
 timestamp: A timestamp indicating when the rating was given.
+
 Links Dataset
 The links dataset comprises links between movie IDs in the MovieLens dataset and external movie databases. This dataset might offer additional contextual information for content-based filtering, especially for new users.
 
-Size
-The dataset contains information that links movie IDs to external movie databases.
+Size: The dataset contains information that links movie IDs to external movie databases.
 
 Columns
 movieId: A unique identifier for each movie.
@@ -68,7 +66,7 @@ The models used during the project are:
    * Collaborative Filtering
    * Content Based Filtering
      
-#Results and Conclusion
+# Results and Conclusion
 Overall, the results of this study are encouraging. SVD is a promising technique for building recommender systems. With further improvements, it could be used to recommend movies to users with high accuracy.
 
 Personalized Engagement Strategy: Our platform's strategic focus on personalized engagement stems from the dynamic entertainment landscape and user expectations. By harnessing historical interactions and preferences, we've successfully developed a recommendation system that delivers tailored movie suggestions, addressing the imperative of captivating and retaining our audience.
