@@ -14,10 +14,10 @@ GROUP 9 MEMBERS:
  - [Modelling](#Modelling)
  - [Results and Conclusion](#Results-and-Conclusion)
  - [Recommendations](#Recommendations)
+ 
+ ![Movie Time](Recommendation.png)
 
-  ![Movie Time] (Recommendation.png)
-
- # Business Understanding
+# Business Understanding
 In the dynamic landscape of the entertainment industry, user engagement is paramount for platforms like ours. To effectively address user engagement, we must delve into the intricacies that shape it. By delving into users' historical interactions and preferences, we unearth valuable insights into their viewing habits, favored genres, and preferred content consumption times. Armed with this intelligence, 
 Our goal is to create a cutting-edge movie recommendation system that significantly enhances user engagement by delivering personalized movie suggestions. We aim to address the challenge of assisting users in discovering movies that align closely with their preferences and maximizing their satisfaction.
 
@@ -81,3 +81,5 @@ Hybrid Approach for Holistic Reach: Acknowledging the challenge of "cold start" 
 Enhanced Personalization: Strengthen the personalization of recommendations by exploring more granular user attributes. Consider incorporating demographic data, viewing history, and even contextual data like time of day. These factors can lead to hyper-personalized suggestions, enhancing user engagement.
 Enable continuous learning. This means allowing the model to learn and improve over time as it receives more data and feedback from users. This can be done by updating the model's parameters based on new data and feedback. By enabling continuous learning, the model can keep the recommendations up-to-date and relevant.
 Feedback Loop Implementation: Establish a feedback mechanism where users can provide explicit feedback on recommended movies. This feedback loop can help the platform fine-tune its recommendations and continuously improve the recommendation system's performance.#Recommendation
+
+![image](https://github.com/PObam/MovieLens_Recommendation_System/assets/126155850/d7cc10ab-1b4d-4505-a82f-b6f7ab8912f6)
