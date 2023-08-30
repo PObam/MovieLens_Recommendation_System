@@ -15,6 +15,8 @@ GROUP 9 MEMBERS:
  - [Results and Conclusion](#Results-and-Conclusion)
  - [Recommendations](#Recommendations)
 
+ ![Movie Time](Recommendation.png)
+ 
 # Business Understanding
 In the dynamic landscape of the entertainment industry, user engagement is paramount for platforms like ours. To effectively address user engagement, we must delve into the intricacies that shape it. By delving into users' historical interactions and preferences, we unearth valuable insights into their viewing habits, favored genres, and preferred content consumption times. Armed with this intelligence, 
 Our goal is to create a cutting-edge movie recommendation system that significantly enhances user engagement by delivering personalized movie suggestions. We aim to address the challenge of assisting users in discovering movies that align closely with their preferences and maximizing their satisfaction.
