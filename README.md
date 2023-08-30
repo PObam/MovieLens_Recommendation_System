@@ -80,6 +80,6 @@ Hybrid Approach for Holistic Reach: Acknowledging the challenge of "cold start" 
 # Recommendation
 Enhanced Personalization: Strengthen the personalization of recommendations by exploring more granular user attributes. Consider incorporating demographic data, viewing history, and even contextual data like time of day. These factors can lead to hyper-personalized suggestions, enhancing user engagement.
 Enable continuous learning. This means allowing the model to learn and improve over time as it receives more data and feedback from users. This can be done by updating the model's parameters based on new data and feedback. By enabling continuous learning, the model can keep the recommendations up-to-date and relevant.
-Feedback Loop Implementation: Establish a feedback mechanism where users can provide explicit feedback on recommended movies. This feedback loop can help the platform fine-tune its recommendations and continuously improve the recommendation system's performance.#Recommendation
+Feedback Loop Implementation: Establish a feedback mechanism where users can provide explicit feedback on recommended movies. This feedback loop can help the platform fine-tune its recommendations and continuously improve the recommendation system's performance.
 
 ![image](https://github.com/PObam/MovieLens_Recommendation_System/assets/126155850/d7cc10ab-1b4d-4505-a82f-b6f7ab8912f6)
