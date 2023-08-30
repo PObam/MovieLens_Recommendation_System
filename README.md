@@ -54,12 +54,15 @@ Columns
 movieId: A unique identifier for each movie.
 imdbId: The identifier of the movie in the IMDb system.
 tmdbId: The identifier of the movie in the TMDB system.
-Assumptions
+
+# Assumptions
+
 User preferences are stable over time.
 Users who have rated movies have likely seen those movies.
 Users who rate movies consistently are likely to rate similar movies similarly.
 Users' ratings of movies are influenced by various factors.
 The Movielens dataset is representative of the population of movie watchers.
+
 # Modelling
 The models used during the project are:
    * Collaborative Filtering
